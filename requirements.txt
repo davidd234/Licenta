@@ -1,0 +1,5 @@
+netmiko
+PyYAML
+Flask
+requests
+python-dotenv
